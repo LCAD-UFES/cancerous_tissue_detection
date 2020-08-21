@@ -56,7 +56,7 @@ python setup.py install
 
 ### Tutorial para a instalação do Cuda 10
 
--Installing CUDA 10(https://github.com/LCAD-UFES/carmen_lcad/wiki/Installing-CUDA-10)
+-[Installing CUDA 10](https://github.com/LCAD-UFES/carmen_lcad/wiki/Installing-CUDA-10)
 
 ---
 
