@@ -256,8 +256,6 @@ def main():
     parser = argparse.ArgumentParser(description='Varejo-iot: count.')
     parser.add_argument('--root', action='store', dest='root', required=True,
                         help='Caminho para local onde está o dirtório do projeto. Formato (exemplo): --root home/user')
-    parser.add_argument('--classes', action='store', dest='classes', required=True,
-                        help='Número de classes. Formato (exemplo): --classes 2')
     parser.add_argument('--batch', action='store', dest='batch', required=True,
                         help='Tamanho do batch. Formato (exemplo): --batch 128')
     parser.add_argument('--accum', action='store', dest='accum', required=True,
@@ -287,7 +285,7 @@ def main():
 
     NETWORK = 'squeezenet1_1'
 
-    NUM_CLASSES = int(arguments.classes) #2
+    NUM_CLASSES = int(2) #2
     BATCH_SIZE = int(arguments.batch) #128
     ACCUMULATE = int(arguments.accum) #1
 
