@@ -1,0 +1,8 @@
+runs_manual_cropped_dataset/squeezenet1_1/01/models/squeezenet1_1_68_3.pth
+runs_manual_cropped_dataset/squeezenet1_1/01/models/squeezenet1_1_68_3.pth
+runs_manual_cropped_dataset/squeezenet1_1/01/models/squeezenet1_1_0.pth
+
+	/mnt/Sabrina1/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_test_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+

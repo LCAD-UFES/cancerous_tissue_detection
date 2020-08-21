@@ -1,0 +1,18 @@
+batch_size: 24
+accumulate: 1
+epochs: 300
+saves_per_epoch: 5
+initial_learning_rate: 0.0004
+last_epoch_for_learning_rate_decay: 100
+decay_rate: 2
+decay_step_size: 5
+
+#Legenda dos parâmetros
+  #batch_size: Quantidade de imagens que serão analisadas juntas.
+  #accumulate: Quantas vezes os valores resultantes da análise do batch_size serão acumulados.
+  #epochs: Quantidade de épocas para análise do conjunto de treino.
+  #saves_per_epoch: Representa a quantidade de check points que você deseja salvar a cada época.
+  #initial_learning_rate: Representa a taxa de aprendizado inicial da rede. Este valor é utilizado para atualizar o valor das sinapses e dos neurônios da rede
+  #last_epoch_for_learning_rate_decay: Representa em qual época será finalizada a diminuição do valor da taxa de aprendizado
+  #decay_rate: Representa o valor pelo qual a taxa de aprendizado será dividida a cada decaimento.
+  #decay_step_size: Representa a quantidade de épocas necessárias para fazer a atualização da taxa de aprendizado 

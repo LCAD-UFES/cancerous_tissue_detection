@@ -1,0 +1,17 @@
+
+Processing file 'results_squeezenet_test.csv' ...
+
+Record count:      896
+Error count:         0
+Patient count:      65
+
+Optimal thresholds:
+Precision   : 1.000000   thresold_1: 0.00   threshold_2: 0.99
+Recall      : 1.000000   thresold_1: 0.00   threshold_2: 0.00
+Accuracy    : 0.953846   thresold_1: 0.76   threshold_2: 0.90
+Fall_Out    : 1.000000   thresold_1: 0.00   threshold_2: 0.00
+Sensitivity : 1.000000   thresold_1: 0.00   threshold_2: 0.00
+F_measure   : 0.943396   thresold_1: 0.76   threshold_2: 0.90
+
+Please find all confusion matrices and performance indexes in file: 'metrics_test.txt'
+

@@ -1,0 +1,10 @@
+../../dataset/val_viewer_dataset/Calc-Test_P_02176_RIGHT_CC_MALIGNANT.png,../../dataset/val_viewer_dataset/Calc-Test_P_02176_RIGHT_CC_1_MALIGNANT.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00268_LEFT_CC_MALIGNANT.png,../../dataset/val_viewer_dataset/Calc-Training_P_00268_LEFT_CC_1_MALIGNANT.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00613_RIGHT_CC_BENIGN_WITHOUT_CALLBACK.png,../../dataset/val_viewer_dataset/Calc-Training_P_00613_RIGHT_CC_1_BENIGN_WITHOUT_CALLBACK.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00624_RIGHT_CC_BENIGN.png,../../dataset/val_viewer_dataset/Calc-Training_P_00624_RIGHT_CC_1_BENIGN.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00666_LEFT_CC_BENIGN.png,../../dataset/val_viewer_dataset/Calc-Training_P_00666_LEFT_CC_1_BENIGN.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00854_RIGHT_CC_BENIGN.png,../../dataset/val_viewer_dataset/Calc-Training_P_00854_RIGHT_CC_1_BENIGN.png
+../../dataset/val_viewer_dataset/Calc-Training_P_00878_LEFT_CC_BENIGN_WITHOUT_CALLBACK.png,../../dataset/val_viewer_dataset/Calc-Training_P_00878_LEFT_CC_1_BENIGN_WITHOUT_CALLBACK.png
+../../dataset/val_viewer_dataset/Calc-Training_P_01359_LEFT_CC_MALIGNANT.png,../../dataset/val_viewer_dataset/Calc-Training_P_01359_LEFT_CC_1_MALIGNANT.png
+../../dataset/val_viewer_dataset/Calc-Training_P_01526_RIGHT_CC_MALIGNANT.png,../../dataset/val_viewer_dataset/Calc-Training_P_01526_RIGHT_CC_1_MALIGNANT.png
+../../dataset/val_viewer_dataset/Calc-Training_P_01576_RIGHT_CC_MALIGNANT.png,../../dataset/val_viewer_dataset/Calc-Training_P_01576_RIGHT_CC_1_MALIGNANT.png

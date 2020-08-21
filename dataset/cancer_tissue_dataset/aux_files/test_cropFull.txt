@@ -1,0 +1,4 @@
+../../dataset/Calc-CC_flipped_dataset/Calc-Training_P_02572_LEFT_CC_MALIGNANT.png
+../../dataset/Calc-CC_flipped_dataset/Calc-Test_P_00038_LEFT_CC_BENIGN.png
+../../dataset/Calc-CC_flipped_dataset/Calc-Test_P_00038_RIGHT_CC_BENIGN_WITHOUT_CALLBACK.png
+../../dataset/Calc-CC_flipped_dataset/Calc-Test_P_00038_RIGHT_CC_BENIGN_WITHOUT_CALLBACK.png

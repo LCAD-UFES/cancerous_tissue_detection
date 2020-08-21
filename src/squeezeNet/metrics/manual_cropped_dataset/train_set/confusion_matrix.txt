@@ -1,0 +1,9 @@
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/runs/squeezenet1_1/02_57344_864955357/training_dataset.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		24888	3784	0.868024554
+		3104	25568	0.891741071
+
+		Average Class Accuracy: 0.879882812

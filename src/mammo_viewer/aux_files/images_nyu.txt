@@ -1,0 +1,8 @@
+../../dataset/sample_images_dataset/0_L_CC.png,../../dataset/sample_images_dataset/0_L_CC.png
+../../dataset/sample_images_dataset/0_R_CC.png,../../dataset/sample_images_dataset/0_R_CC.png
+../../dataset/sample_images_dataset/1_L_CC.png,../../dataset/sample_images_dataset/1_L_CC.png
+../../dataset/sample_images_dataset/1_R_CC.png,../../dataset/sample_images_dataset/1_R_CC.png
+../../dataset/sample_images_dataset/2_L_CC.png,../../dataset/sample_images_dataset/2_L_CC.png
+../../dataset/sample_images_dataset/2_R_CC.png,../../dataset/sample_images_dataset/2_R_CC.png
+../../dataset/sample_images_dataset/3_L_CC.png,../../dataset/sample_images_dataset/3_L_CC.png
+../../dataset/sample_images_dataset/3_R_CC.png,../../dataset/sample_images_dataset/3_R_CC.png

@@ -1,0 +1,6 @@
+Dataset Standard Deviation Image: torch.Size([224, 224])
+Dataset Mean Image: torch.Size([224, 224])
+Dataset Variance Image: torch.Size([224, 224])
+Dataset Standard Deviation Pixel: tensor(0.2371)
+Dataset Mean Pixel: tensor(0.4107)
+Dataset Variance Pixel: tensor(0.0562)
