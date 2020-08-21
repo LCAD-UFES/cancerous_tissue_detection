@@ -1,0 +1,28 @@
+runs_folder: '/home/pedro/IC_LCAD/breast_cancer_analyzer_LCAD/src/squeezeNet/pedro_test_run'
+network: 'squeezenet1_1'
+initial_model: ~
+initial_model_test: False
+#training: '/home/pedro/IC_LCAD/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_train_2019_09_13.txt'
+#training_dir: '/home/pedro/IC_LCAD/manual_cropped_dataset'
+training: '/home/pedro/Área de Trabalho/images_training.txt'
+training_dir: '/home/pedro/Área de Trabalho'
+validation: '/home/pedro/IC_LCAD/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_09_13.txt'
+validation_dir: '/home/pedro/IC_LCAD/manual_cropped_dataset'
+test: ~
+test_dir: ~
+# test: '/mnt/digital_mammos/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_test_2019_10_15_2.txt'
+# test_dir: '/mnt/digital_mammos/breast_cancer_analyzer_LCAD/dataset/cancer_tissue_dataset/manual_cropped_dataset'
+
+#Legenda dos parâmatros:
+  #runs_folder: Pasta onde será salvo o log do modelo (Salvar os treinos com bons resultados em um HD externo)
+  #network: Nome da rede
+  #initial_model: Caminho dos pesos que serão utilizados para testar
+  #initial_model_test: (True ou False dependendo do parâmetro acima)
+  #training: Caminho absoluto do arquivo com o nome das imagens para treino
+  #training_dir: Complemento do caminho das imagens para treino
+  #validation: Caminho absoluto com o nome das imagens para validação
+  #validation_dir: Complemento do caminho das imagens para validação
+  #test: Caminho absoluto do arquivo com o nome das imagens para teste
+  #test_dir: Complemento do caminho das imagens para teste
+
+#Usar ~ para valores nulos

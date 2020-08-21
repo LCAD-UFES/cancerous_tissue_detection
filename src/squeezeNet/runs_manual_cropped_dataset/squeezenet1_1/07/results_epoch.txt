@@ -1,0 +1,1350 @@
+squeezenet1_1_1_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		1847	1737		0.515345982
+		1359	2225		0.620814732
+
+		Average Class Accuracy: 0.568080357
+squeezenet1_1_2_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2050	1534		0.571986607
+		1262	2322		0.647879464
+
+		Average Class Accuracy: 0.609933036
+squeezenet1_1_3_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2110	1474		0.588727679
+		937	2647		0.738560268
+
+		Average Class Accuracy: 0.663643973
+squeezenet1_1_4_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2080	1504		0.580357143
+		819	2765		0.771484375
+
+		Average Class Accuracy: 0.675920759
+squeezenet1_1_5_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2571	1013		0.717354911
+		922	2662		0.742745536
+
+		Average Class Accuracy: 0.730050223
+squeezenet1_1_6_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2656	928		0.741071429
+		905	2679		0.747488839
+
+		Average Class Accuracy: 0.744280134
+squeezenet1_1_7_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2815	769		0.785435268
+		1021	2563		0.715122768
+
+		Average Class Accuracy: 0.750279018
+squeezenet1_1_8_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2844	740		0.793526786
+		987	2597		0.724609375
+
+		Average Class Accuracy: 0.759068080
+squeezenet1_1_9_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2870	714		0.800781250
+		1002	2582		0.720424107
+
+		Average Class Accuracy: 0.760602679
+squeezenet1_1_10_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2834	750		0.790736607
+		858	2726		0.760602679
+
+		Average Class Accuracy: 0.775669643
+squeezenet1_1_11_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2832	752		0.790178571
+		828	2756		0.768973214
+
+		Average Class Accuracy: 0.779575893
+squeezenet1_1_12_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2885	699		0.804966518
+		859	2725		0.760323661
+
+		Average Class Accuracy: 0.782645089
+squeezenet1_1_13_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2866	718		0.799665179
+		841	2743		0.765345982
+
+		Average Class Accuracy: 0.782505580
+squeezenet1_1_14_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2914	670		0.813058036
+		873	2711		0.756417411
+
+		Average Class Accuracy: 0.784737723
+squeezenet1_1_15_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2911	673		0.812220982
+		842	2742		0.765066964
+
+		Average Class Accuracy: 0.788643973
+squeezenet1_1_16_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2911	673		0.812220982
+		828	2756		0.768973214
+
+		Average Class Accuracy: 0.790597098
+squeezenet1_1_17_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2931	653		0.817801339
+		845	2739		0.764229911
+
+		Average Class Accuracy: 0.791015625
+squeezenet1_1_18_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2933	651		0.818359375
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.792410714
+squeezenet1_1_19_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2927	657		0.816685268
+		832	2752		0.767857143
+
+		Average Class Accuracy: 0.792271205
+squeezenet1_1_20_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2930	654		0.817522321
+		831	2753		0.768136161
+
+		Average Class Accuracy: 0.792829241
+squeezenet1_1_21_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2937	647		0.819475446
+		838	2746		0.766183036
+
+		Average Class Accuracy: 0.792829241
+squeezenet1_1_22_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2936	648		0.819196429
+		838	2746		0.766183036
+
+		Average Class Accuracy: 0.792689732
+squeezenet1_1_23_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2946	638		0.821986607
+		847	2737		0.763671875
+
+		Average Class Accuracy: 0.792829241
+squeezenet1_1_24_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2946	638		0.821986607
+		848	2736		0.763392857
+
+		Average Class Accuracy: 0.792689732
+squeezenet1_1_25_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		845	2739		0.764229911
+
+		Average Class Accuracy: 0.793387277
+squeezenet1_1_26_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		844	2740		0.764508929
+
+		Average Class Accuracy: 0.793526786
+squeezenet1_1_27_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		841	2743		0.765345982
+
+		Average Class Accuracy: 0.793805804
+squeezenet1_1_28_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2946	638		0.821986607
+		842	2742		0.765066964
+
+		Average Class Accuracy: 0.793526786
+squeezenet1_1_29_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2945	639		0.821707589
+		840	2744		0.765625000
+
+		Average Class Accuracy: 0.793666295
+squeezenet1_1_30_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2946	638		0.821986607
+		840	2744		0.765625000
+
+		Average Class Accuracy: 0.793805804
+squeezenet1_1_31_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794084821
+squeezenet1_1_32_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794084821
+squeezenet1_1_33_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794084821
+squeezenet1_1_34_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		841	2743		0.765345982
+
+		Average Class Accuracy: 0.793945312
+squeezenet1_1_35_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_36_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_37_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		840	2744		0.765625000
+
+		Average Class Accuracy: 0.794084821
+squeezenet1_1_38_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_39_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_40_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.794503348
+squeezenet1_1_41_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		838	2746		0.766183036
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_42_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		838	2746		0.766183036
+
+		Average Class Accuracy: 0.794363839
+squeezenet1_1_43_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_44_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		839	2745		0.765904018
+
+		Average Class Accuracy: 0.794224330
+squeezenet1_1_45_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.794503348
+squeezenet1_1_46_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.794503348
+squeezenet1_1_47_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.794921875
+squeezenet1_1_48_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.794782366
+squeezenet1_1_49_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.794503348
+squeezenet1_1_50_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_51_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_52_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_53_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_54_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_55_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_56_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.794782366
+squeezenet1_1_57_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2947	637		0.822265625
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.794642857
+squeezenet1_1_58_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795061384
+squeezenet1_1_59_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2949	635		0.822823661
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795061384
+squeezenet1_1_60_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2948	636		0.822544643
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.794921875
+squeezenet1_1_61_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2949	635		0.822823661
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795061384
+squeezenet1_1_62_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2951	633		0.823381696
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_63_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_64_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_65_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_66_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_67_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_68_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_69_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_70_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795061384
+squeezenet1_1_71_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_72_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_73_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2949	635		0.822823661
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_74_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2949	635		0.822823661
+		831	2753		0.768136161
+
+		Average Class Accuracy: 0.795479911
+squeezenet1_1_75_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_76_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2949	635		0.822823661
+		832	2752		0.767857143
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_77_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.794782366
+squeezenet1_1_78_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2950	634		0.823102679
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795200893
+squeezenet1_1_79_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2952	632		0.823660714
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_80_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2951	633		0.823381696
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795340402
+squeezenet1_1_81_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795619420
+squeezenet1_1_82_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_83_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2952	632		0.823660714
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795619420
+squeezenet1_1_84_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2952	632		0.823660714
+		832	2752		0.767857143
+
+		Average Class Accuracy: 0.795758929
+squeezenet1_1_85_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_86_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_87_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_88_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_89_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795758929
+squeezenet1_1_90_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_91_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.795479911
+squeezenet1_1_92_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		832	2752		0.767857143
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_93_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795619420
+squeezenet1_1_94_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795758929
+squeezenet1_1_95_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2957	627		0.825055804
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.795898438
+squeezenet1_1_96_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_97_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2955	629		0.824497768
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.795758929
+squeezenet1_1_98_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2956	628		0.824776786
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.795619420
+squeezenet1_1_99_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.795758929
+squeezenet1_1_100_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2954	630		0.824218750
+		832	2752		0.767857143
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_101_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2957	627		0.825055804
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796177455
+squeezenet1_1_102_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2958	626		0.825334821
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_103_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2957	627		0.825055804
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_104_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2957	627		0.825055804
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_105_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2956	628		0.824776786
+		831	2753		0.768136161
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_106_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2959	625		0.825613839
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796037946
+squeezenet1_1_107_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2959	625		0.825613839
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_108_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2958	626		0.825334821
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_109_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2959	625		0.825613839
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_110_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2960	624		0.825892857
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_111_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2960	624		0.825892857
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_112_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2958	626		0.825334821
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796177455
+squeezenet1_1_113_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2960	624		0.825892857
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_114_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2959	625		0.825613839
+		833	2751		0.767578125
+
+		Average Class Accuracy: 0.796595982
+squeezenet1_1_115_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_116_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_117_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_118_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2960	624		0.825892857
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_119_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796595982
+squeezenet1_1_120_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_121_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_122_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_123_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796735491
+squeezenet1_1_124_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796735491
+squeezenet1_1_125_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		834	2750		0.767299107
+
+		Average Class Accuracy: 0.796735491
+squeezenet1_1_126_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		835	2749		0.767020089
+
+		Average Class Accuracy: 0.796595982
+squeezenet1_1_127_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_128_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_129_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_130_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_131_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2962	622		0.826450893
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_132_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_133_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		837	2747		0.766462054
+
+		Average Class Accuracy: 0.796316964
+squeezenet1_1_134_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473
+squeezenet1_1_135_5.pth tests:
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/squeezeNet/aux_files/cbisddsm_val_2019_10_15.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		2961	623		0.826171875
+		836	2748		0.766741071
+
+		Average Class Accuracy: 0.796456473

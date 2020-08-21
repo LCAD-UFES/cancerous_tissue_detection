@@ -1,0 +1,2 @@
+/mnt/dadosSabrina/MyDrive/breast_cancer_analyzer_LCAD/dataset/cancer_tissue_dataset/PNG_Calc_CC_renamed_dataset/Calc-Test_P_00127_RIGHT_CC_MALIGNANT.png 
+

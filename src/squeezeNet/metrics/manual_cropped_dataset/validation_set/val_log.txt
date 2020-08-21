@@ -1,0 +1,19 @@
+
+Processing file 'val_results_squeezenet.csv' ...
+
+Record count:        896
+Error count:           0
+Mammogram count:      68
+
+Please find all confusion matrices and performance indexes in file: 'val_metrics.txt'
+
+
+AUC of ROC curve is 0.978400
+
+Please find ROC curve data in file: 'val_roc_curve.txt'
+
+
+AUC of Precision-Recall curve is 0.971819
+
+Please find Precision-Recall curve data in file: 'val_pr_curve.txt'
+

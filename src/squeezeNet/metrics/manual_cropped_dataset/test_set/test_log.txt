@@ -1,0 +1,35 @@
+
+Processing file 'test_results_squeezenet.csv' ...
+
+Record count:        896
+Error count:           0
+Mammogram count:      65
+
+
+Processing file 'val_roc_curve.txt' ...
+
+Record count:         45
+Error count:           0
+
+
+Processing file 'val_pr_curve.txt' ...
+
+Record count:         19
+Error count:           0
+
+Please find all confusion matrices and performance indexes in file: 'test_metrics.txt'
+
+Sensitivity extrapolated to 0.384615 for Fall_Out(0.0)
+
+Precision extrapolated to 0.702703 for Recall(1.0)
+
+
+AUC of ROC curve is 0.966346
+
+Please find ROC curve data in file: 'test_roc_curve.txt'
+
+
+AUC of Precision-Recall curve is 0.947405
+
+Please find Precision-Recall curve data in file: 'test_pr_curve.txt'
+

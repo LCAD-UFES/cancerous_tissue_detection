@@ -1,0 +1,9 @@
+
+	/mnt/dadosSabrina/breast_cancer_analyzer_LCAD/src/mammo_viewer/crop_mammo_test_set.txt:
+
+		Confusion Matrix	Class Accuracy
+
+		3282	617	0.841754296
+		1799	844	0.319334090
+
+		Average Class Accuracy: 0.580544193

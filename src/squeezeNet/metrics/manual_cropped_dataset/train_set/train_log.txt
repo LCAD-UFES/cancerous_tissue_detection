@@ -1,0 +1,19 @@
+
+Processing file 'train_results_squeezenet.csv' ...
+
+Record count:      57344
+Error count:           0
+Mammogram count:    1000
+
+Please find all confusion matrices and performance indexes in file: 'train_metrics.txt'
+
+
+AUC of ROC curve is 0.979012
+
+Please find ROC curve data in file: 'train_roc_curve.txt'
+
+
+AUC of Precision-Recall curve is 0.990693
+
+Please find Precision-Recall curve data in file: 'train_pr_curve.txt'
+

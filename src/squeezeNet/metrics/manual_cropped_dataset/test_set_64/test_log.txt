@@ -1,0 +1,33 @@
+
+Processing file 'test_cropped_test_dataset_64.csv' ...
+
+Record count:      96907
+Error count:           0
+Mammogram count:      65
+
+
+Processing file '../validation_set/val_roc_curve.txt' ...
+
+Record count:         45
+Error count:           0
+
+
+Processing file '../validation_set/val_pr_curve.txt' ...
+
+Record count:         19
+Error count:           0
+
+Please find all confusion matrices and performance indexes in file: 'test_metrics.txt'
+
+Precision extrapolated to 0.541667 for Recall(1.0)
+
+
+AUC of ROC curve is 0.746346
+
+Please find ROC curve data in file: 'test_roc_curve.txt'
+
+
+AUC of Precision-Recall curve is 0.608298
+
+Please find Precision-Recall curve data in file: 'test_pr_curve.txt'
+
