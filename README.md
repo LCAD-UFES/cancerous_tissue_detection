@@ -65,7 +65,7 @@ python setup.py install
 1. Clone esse repositório para seu computador
    - Escolha o diretório onde deseja colocar o projeto e acesso o mesmo via terminal
    ```bash
-   $ git clone https://github.com/LCAD-UFES/cancerous_tissue_detection.git
+   git clone https://github.com/LCAD-UFES/cancerous_tissue_detection.git
    ```
 
 2. Faça o download dos arquivos abaixo:
@@ -77,30 +77,30 @@ python setup.py install
        Acesse via terminal a pasta aonde você salvou os arquivos e execute o comando abaixo.
        *Comando em uma linha*
        ```bash
-       $ tar -zxvf CALC_CC_flipped_dataset.tar.gz && tar -zxvf manual_cropped_dataset.tar.gz
+       tar -zxvf CALC_CC_flipped_dataset.tar.gz && tar -zxvf manual_cropped_dataset.tar.gz
        ```
        *Ou*
        ```bash
-       $ tar -zxvf CALC_CC_flipped_dataset.tar.gz 
-       $ tar -zxvf manual_cropped_dataset.tar.gz
+       tar -zxvf CALC_CC_flipped_dataset.tar.gz 
+       tar -zxvf manual_cropped_dataset.tar.gz
        ```
 
 3. Via terminal, ative o ambiente virtual criado e acesse na pasta do projeto.
    ```bash
-   $ source ~/breast_cancer/bin/activate
-   $ cd cancerous_tissue_detection
+   source ~/breast_cancer/bin/activate
+   cd cancerous_tissue_detection
    ```
    - Utilize o pip para instalar o requisitos necessários para rodar o projeto
    ```bash
-   $ pip install --no-cache -r requirements.txt
+   pip install --no-cache -r requirements.txt
    ```
 4. Ainda na pasta do projeto, acesse o diretório onde se encontra o script.
    ```bash
-    $ cd src/squeezenet
+    cd src/squeezenet
    ```
 5. Agora, execute o script da rede com os parâmetros desejados. 
    ```bash
-    $ python squeezenet.py --root /home/your_user --batch 128 --accum 1 --epochs 100 --saves 1 --lr 0.0004 --endLR 7 --decayRate 2 --stepSize 5 --shuffle 1 --initModel /home/your_user/cancerous_tissue_detection/src/squeezeNet/runs_manual_cropped_dataset
+    python squeezenet.py --root /home/your_user --batch 128 --accum 1 --epochs 100 --saves 1 --lr 0.0004 --endLR 7 --decayRate 2 --stepSize 5 --shuffle 1 --initModel /home/your_user/cancerous_tissue_detection/src/squeezeNet/runs_manual_cropped_dataset
    ``` 
 - **Parâmetros, passados por linha de comando no exemplo anterior, da rede**
   - --root caminho até o local onde está o dirtório do projeto.
